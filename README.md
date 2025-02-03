@@ -49,7 +49,7 @@ pip install -r requirements.txt
 2. Add your **Exchange Rate API Key**:
 
 ```
-EXCHANGE_RATE_API_KEY=your_api_key_here
+EXCHANGE_RATE_API_KEY=75240bdaa920004e5a6b77dd
 ```
 
 ---
